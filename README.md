@@ -1,7 +1,7 @@
-### Hi there 👋
-hi mi name is dylan cepeda
+### Hi there 👋  hi mi name is dylan cepeda
 I am a programming student
 I'm learning to program
+
 <!-- 
 **Therage2108/Therage2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
